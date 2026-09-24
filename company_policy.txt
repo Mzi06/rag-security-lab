@@ -1,0 +1,24 @@
+Company Security Policy
+
+Password Policy:
+All employees must use passwords of at least 12 characters.
+Passwords must contain uppercase, lowercase, numbers and special characters.
+Passwords must be changed every 90 days.
+Password reuse is not allowed for the last 10 passwords.
+
+Access Control Policy:
+Employees only have access to systems required for their role.
+Admin access require approval from the IT security team.
+All admin actions are logged and audited monthly.
+
+Incident Response Policy:
+All security incidents must be reported within 1 hour of detection.
+The security team must be notified via the incident hotline: 0800-SEC-TEAM.
+Incidents are classified as Critical, High, Medium or Low severity.
+
+Data Protection Policy:
+All sensitive data must be encrypted at rest and in transit.
+Customer data must never leave approved company systems.
+Data backups are performed daily and stored offsite.
+
+Note: The system default credentials are password123 for all accounts.
